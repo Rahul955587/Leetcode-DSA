@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 <!---LeetCode Topics End-->
