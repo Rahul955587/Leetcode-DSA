@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0867-transpose-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0867-transpose-matrix/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0867-transpose-matrix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
