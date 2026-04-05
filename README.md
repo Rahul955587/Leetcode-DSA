@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [1154-day-of-the-year](https://github.com/Rahul955587/Leetcode-DSA/tree/master/1154-day-of-the-year) |
 ## String
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Hash Table
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0867-transpose-matrix/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
