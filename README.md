@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0867-transpose-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0867-transpose-matrix/) | Easy |
 ## Binary Search
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
