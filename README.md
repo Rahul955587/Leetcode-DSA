@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [1154-day-of-the-year](https://github.com/Rahul955587/Leetcode-DSA/tree/master/1154-day-of-the-year) |
 ## String
 | Problem Name | Difficulty |
