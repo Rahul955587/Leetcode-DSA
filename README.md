@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1154-day-of-the-year](https://github.com/Rahul955587/Leetcode-DSA/tree/master/1154-day-of-the-year) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0735-asteroid-collision](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0867-transpose-matrix/) | Easy |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
