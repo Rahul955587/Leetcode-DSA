@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0043-multiply-strings/) | Medium |
+| [0050-powx-n](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0050-powx-n/) | Medium |
 | [1154-day-of-the-year](https://github.com/Rahul955587/Leetcode-DSA/tree/master/1154-day-of-the-year) |
 ## String
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0050-powx-n/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
