@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0050-powx-n/) | Medium |
 | [1154-day-of-the-year](https://github.com/Rahul955587/Leetcode-DSA/tree/master/1154-day-of-the-year) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
