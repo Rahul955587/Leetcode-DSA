@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -162,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
