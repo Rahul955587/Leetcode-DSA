@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0389-find-the-difference](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1154-day-of-the-year](https://github.com/Rahul955587/Leetcode-DSA/tree/master/1154-day-of-the-year) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0389-find-the-difference](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0389-find-the-difference/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,5 +195,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
