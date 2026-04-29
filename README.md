@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0050-powx-n/) | Medium |
+| [0492-construct-the-rectangle](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0492-construct-the-rectangle/) | Easy |
 | [1154-day-of-the-year](https://github.com/Rahul955587/Leetcode-DSA/tree/master/1154-day-of-the-year) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
