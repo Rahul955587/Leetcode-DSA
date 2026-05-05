@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0061-rotate-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Hash Table
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0061-rotate-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
