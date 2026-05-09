@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0867-transpose-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0867-transpose-matrix/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0867-transpose-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0867-transpose-matrix/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
