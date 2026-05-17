@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0682-baseball-game](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0867-transpose-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0867-transpose-matrix/) | Easy |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0682-baseball-game](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
