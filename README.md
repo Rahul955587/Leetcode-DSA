@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0788-rotated-digits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1154-day-of-the-year](https://github.com/Rahul955587/Leetcode-DSA/tree/master/1154-day-of-the-year) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0735-asteroid-collision](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0735-asteroid-collision](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
