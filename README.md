@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0867-transpose-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0867-transpose-matrix/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2057-smallest-index-with-equal-value/) | Easy |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
