@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0190-reverse-bits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0190-reverse-bits/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0190-reverse-bits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0190-reverse-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0342-power-of-four](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0389-find-the-difference/) | Easy |
