@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0788-rotated-digits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1154-day-of-the-year](https://github.com/Rahul955587/Leetcode-DSA/tree/master/1154-day-of-the-year) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
