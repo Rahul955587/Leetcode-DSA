@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1154-day-of-the-year](https://github.com/Rahul955587/Leetcode-DSA/tree/master/1154-day-of-the-year) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
