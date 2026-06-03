@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0342-power-of-four](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
