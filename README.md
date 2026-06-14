@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
