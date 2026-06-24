@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0242-valid-anagram](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0242-valid-anagram](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0147-insertion-sort-list/) | Medium |
+| [0242-valid-anagram](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
