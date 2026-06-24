@@ -15,9 +15,6 @@ class Solution {
                 mpp.put(ch,mpp.get(ch)+1);
             }
         }
-        for(char x:mp.keySet()){
-            if(!mpp.containsKey(x) || !mp.get(x).equals(mpp.get(x))) return false;
-        }
-        return true;
+        return mp.equals(mpp);
     }
 }
