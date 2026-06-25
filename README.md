@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0190-reverse-bits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0190-reverse-bits/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,9 +348,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
