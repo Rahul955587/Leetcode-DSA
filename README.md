@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0492-construct-the-rectangle/) | Easy |
@@ -412,4 +413,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
