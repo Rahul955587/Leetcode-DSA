@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0190-reverse-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
