@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0929-unique-email-addresses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2126-destroying-asteroids/) | Medium |
