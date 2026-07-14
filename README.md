@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0561-array-partition](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0561-array-partition/) | Easy |
 | [0682-baseball-game](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0561-array-partition](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0389-find-the-difference/) | Easy |
+| [0561-array-partition](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0561-array-partition/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
