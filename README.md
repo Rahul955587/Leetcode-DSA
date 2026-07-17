@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0929-unique-email-addresses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/Rahul955587/Leetcode-DSA/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
