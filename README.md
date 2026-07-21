@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2126-destroying-asteroids/) | Medium |
@@ -467,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
