@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Binary Search
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
