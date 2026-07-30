@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2129-capitalize-the-title/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Array
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
