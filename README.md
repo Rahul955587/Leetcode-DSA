@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1844-replace-all-digits-with-characters/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2129-capitalize-the-title/) | Easy |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
