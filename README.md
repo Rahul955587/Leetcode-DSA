@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1154-day-of-the-year](https://github.com/Rahul955587/Leetcode-DSA/tree/master/1154-day-of-the-year) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Hash Table
