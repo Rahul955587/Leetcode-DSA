@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
