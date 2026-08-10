@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3908-valid-digit-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3908-valid-digit-number/) | Easy |
+| [3945-digit-frequency-score](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3945-digit-frequency-score](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
