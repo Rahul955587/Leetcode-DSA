@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
