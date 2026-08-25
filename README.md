@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Binary Search
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
