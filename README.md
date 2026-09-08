@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3908-valid-digit-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3908-valid-digit-number/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3945-digit-frequency-score/) | Easy |
