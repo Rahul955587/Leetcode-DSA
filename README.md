@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -594,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0175-combine-two-tables/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
