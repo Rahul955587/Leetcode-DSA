@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1154-day-of-the-year](https://github.com/Rahul955587/Leetcode-DSA/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0788-rotated-digits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0788-rotated-digits/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -615,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
