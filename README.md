@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
