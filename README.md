@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0179-largest-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0179-largest-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0179-largest-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0148-sort-list/) | Medium |
+| [0179-largest-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
