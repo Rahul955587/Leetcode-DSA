@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
