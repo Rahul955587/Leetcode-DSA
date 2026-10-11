@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
+| [0090-subsets-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0090-subsets-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0190-reverse-bits/) | Easy |
@@ -652,4 +654,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
