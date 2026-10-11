@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
@@ -654,5 +655,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0046-permutations/) | Medium |
 | [0090-subsets-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
