@@ -667,4 +667,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rahul955587/Leetcode-DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
