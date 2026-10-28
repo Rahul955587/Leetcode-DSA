@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0338-counting-bits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0788-rotated-digits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Rahul955587/Leetcode-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahul955587/Leetcode-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
